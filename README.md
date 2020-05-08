@@ -1,5 +1,5 @@
 # SOR4-Speedup
-Super simple injectable speed hack. 
+Super simple injectable speed hack which speeds the game up by 15%. Mainly exists since I felt like the game was just too slow. 
 
 Rename 
   MojoShader.dll -> MojoShader_Original.dll
